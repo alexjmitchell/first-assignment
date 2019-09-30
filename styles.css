@@ -1,0 +1,10 @@
+.headers {
+  font-family: sans-serif;
+  text-align: center;
+  color: green;
+}
+
+#top-header-bar {
+  background: grey;
+  padding: 0.5px;
+}
